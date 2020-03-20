@@ -1,0 +1,138 @@
+.main_container {
+  text-align: center;
+}
+
+button {
+  border: 0ch;
+  color: rgb(90, 90, 90);
+}
+
+.menu {
+  height: 22px;
+  opacity: 0.4;
+}
+
+.menu:hover {
+  opacity: 0.6;
+}
+
+.photo {
+  height: 40px;
+  border-radius: 50%;
+  margin-left: 13px;
+}
+
+.logo {
+  height: 100px;
+}
+
+hr {
+  opacity: 0.15;
+}
+
+.top-nav {
+  margin: 30px 0px 170px 1250px;
+  display: flex;
+  align-items: center;
+}
+
+.top-nav span {
+  padding-left: 10px;
+}
+
+.top-nav span button {
+  margin-bottom: 10px;
+  color: rgb(90, 90, 90);
+}
+
+.search input {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  width: 550px;
+  border-radius: 20px;
+  border-color: rgba(180, 180, 180, 0.3);
+  padding-left: 50px;
+}
+
+.search img {
+  position: absolute;
+}
+
+.search-icon {
+  margin-top: 17px;
+  margin-left: 15px;
+  opacity: 0.4;
+}
+
+button {
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+
+.main-btn {
+  margin-bottom: 40px;
+}
+
+.main-btn button {
+  padding: 10px;
+  border: 2px solid rgba(255, 255, 255, 0.3);
+}
+
+button:hover {
+  text-decoration: underline;
+}
+
+.India button {
+  text-decoration: none;
+  opacity: 0.7;
+}
+
+.India button:hover {
+  text-decoration: none;
+}
+
+.main-btn button:hover {
+  border: 2px solid rgba(180, 180, 180, 0.3);
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.languages {
+  margin-bottom: 150px;
+  font-family: "Roboto", sans-serifl;
+  color: rgb(90, 90, 90);
+}
+
+.languages a {
+  margin-left: 5px;
+  text-decoration: none;
+  color: blue;
+  font-size: 14px;
+}
+
+.languages a:hover {
+  text-decoration: underline;
+}
+
+.main-btn span {
+  margin: 0px 10px;
+}
+
+.bottom-nav {
+  margin: 0px 10px;
+}
+
+.bottom-nav span span {
+  margin: 10px;
+}
+
+.bottom-nav-left {
+  float: left;
+  margin-right: 20px;
+}
+
+.bottom-nav-right {
+  float: right;
+  margin-left: 20px;
+}
