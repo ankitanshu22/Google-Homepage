@@ -1,4 +1,4 @@
-# Google-Homepage
+# Google Homepage Clone
 
 Just an attempt to clone Google's Homepage
 
